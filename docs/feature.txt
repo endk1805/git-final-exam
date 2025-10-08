@@ -1,0 +1,6 @@
+Tính năng mới: Git Stash
+
+Git Stash là tính năng cho phép người dùng lưu tạm thời những thay đổi chưa commit để có thể chuyển sang nhánh khác mà không mất dữ liệu.
+Khi dùng lệnh git stash, Git sẽ cất toàn bộ file đang chỉnh sửa vào một vùng lưu trữ tạm.
+Sau đó, bạn có thể quay lại nhánh khác, làm việc rồi dùng git stash apply để khôi phục lại đúng trạng thái trước đó.
+Tính năng này rất hữu ích khi cần chuyển nhánh nhanh mà chưa muốn commit hoặc thử nghiệm nhiều hướng xử lý khác nhau.
