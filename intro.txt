@@ -2,3 +2,10 @@ sở thích :
  nghe nhac, chơi game, the thao
 kĩ năng: 
  giao tiep, lam viec nhom, quan li thoi gian 
+
+Kế hoạch học tập:
+- Học lập trình cơ bản (Python/C++) — 3 buổi/tuần để nắm vững cú pháp và thuật toán.
+- Nâng cao kỹ năng Git: commit, branch, merge và giải quyết xung đột.
+- Thực hành qua các bài tập và dự án nhỏ hàng tuần để củng cố kiến thức.
+- Đọc tài liệu chuyên ngành và học thêm tiếng Anh chuyên ngành hàng ngày.
+- Thiết lập mục tiêu học tập ngắn hạn (tuần) và dài hạn (tháng) và đánh giá tiến độ.
